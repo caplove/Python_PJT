@@ -1,19 +1,23 @@
 
 # 파이썬 Tutorial
 
-Day_1. 데이터형/인덱싱/Array math/   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYoq-z3P-XSi8ImsTP3-z7LNMsFniaTg#scrollTo=o0mqaUUxL6rj)
+Day_1. 
+  데이터형/인덱싱/Array math/   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYoq-z3P-XSi8ImsTP3-z7LNMsFniaTg#scrollTo=o0mqaUUxL6rj)
 
 Day_2. Kmean
 
-선형회귀 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hQtkRyOpeO64FkDe9T4WJbTnICosCMkL#scrollTo=HhWInkOKqg6s)
+  선형회귀 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hQtkRyOpeO64FkDe9T4WJbTnICosCMkL#scrollTo=HhWInkOKqg6s)
 
-Kmean 알고리즘 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tc_7nQEojOL_IrJxxyIyb86UQB0Q4qdX)
+  Kmean 알고리즘 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tc_7nQEojOL_IrJxxyIyb86UQB0Q4qdX)
 
-Kmeans / Cluster [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tc_7nQEojOL_IrJxxyIyb86UQB0Q4qdX)
+  Kmeans / Cluster [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tc_7nQEojOL_IrJxxyIyb86UQB0Q4qdX)
 
+Day_3.인공신경망
 
+  패션 MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10eGfEimqrShRZyjswsu5DTrameJWJd1O#scrollTo=JOGiXlUF0Ti0)
 
-
+  심층신경망
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MIDYqRvYsFMJGVv0yb-M5D1uq-9HIbzW)
 
 
 
